@@ -10,6 +10,12 @@ h1 {
     font-size: 50px;
 }
 
+p {
+    color: peachpuff;
+    background-color: cyan;
+    font-size: x-large;
+}
+
 #lasagna {
     background-color: green;
     color: yellow;

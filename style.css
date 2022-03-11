@@ -1,0 +1,31 @@
+* {
+    font-family: monospace, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    background-color: green;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+#lasagna {
+    background-color: green;
+    color: yellow;
+    text-align: right;
+}
+
+#fettuccine {
+    background-color: brown;
+    color: aqua;
+    font-weight: bolder;
+    font-size: 36px;
+}
+
+#marsala{
+    background-color: cyan;
+    color: rgb(241, 100, 124);
+    text-align: center;
+    font-size: 12px;
+}
